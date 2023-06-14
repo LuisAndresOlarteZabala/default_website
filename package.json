@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/LuisAndresOlarteZabala/default_website/issues"
   },
-  "homepage": "https://github.com/LuisAndresOlarteZabala/default_website#readme"
+  "homepage": "https://github.com/LuisAndresOlarteZabala/default_website#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
