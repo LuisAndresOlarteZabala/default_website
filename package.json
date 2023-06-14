@@ -1,0 +1,25 @@
+{
+  "name": "default_website",
+  "version": "1.0.0",
+  "description": "Es un sitio muy básico para una prueba muy básica de un sitio estático ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisAndresOlarteZabala/default_website.git"
+  },
+  "keywords": [
+    "html",
+    "basic",
+    "css",
+    "javascript"
+  ],
+  "author": "Luis Andres Olarte Zabala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisAndresOlarteZabala/default_website/issues"
+  },
+  "homepage": "https://github.com/LuisAndresOlarteZabala/default_website#readme"
+}

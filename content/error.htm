@@ -1,0 +1,15 @@
+<section>
+    <h2>Error</h2>
+    <p>
+      Error code: <strong id="errorCode"></strong>
+    </p>
+  </section>
+
+<script>
+  // Obtener el código de error de la URL
+  var urlParams = new URLSearchParams(window.location.search);
+  var errorCode = urlParams.get('code');
+
+  // Mostrar el código de error en la página
+  document.getElementById('errorCode').textContent = errorCode;
+</script>
